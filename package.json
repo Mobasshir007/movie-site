@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mobasshir007.github.io/notflix-clone-ui",
+  "homepage": "https://Mobasshir007.github.io/movie-site",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
