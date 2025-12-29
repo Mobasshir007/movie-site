@@ -1,5 +1,5 @@
 import React from 'react'
-import './footer.css'
+import './Footer.css'
 import insta from '../../assets/Images/instagram_icon.png'
 import fb from '../../assets/Images/facebook_icon.png'
 import yt from '../../assets/Images/youtube_icon.png'
