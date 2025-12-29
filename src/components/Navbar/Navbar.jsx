@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import './Navbar.css'
-import NOTFLIX from '../../assets/images/NOTFLIX.png'
+import NOTFLIX from '../../assets/Images/NOTFLIX.png'
 import search from '../../assets/images/search.svg'
 import bell from '../../assets/Images/bell.svg'
 import profile from '../../assets/Images/profile.png'
